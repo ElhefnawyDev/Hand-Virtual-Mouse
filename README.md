@@ -1,4 +1,4 @@
-# Hand Virtual Mouse
+# Hand Virtual Mouse "Inspired By Vision PRO"
 
 Description:
 Hand Virtual Mouse is a Python-based project that utilizes computer vision techniques to detect hand gestures and control the mouse pointer accordingly. The project employs the MediaPipe library for hand tracking, allowing users to manipulate the mouse pointer on the screen by moving their hand in front of a webcam.
